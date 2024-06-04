@@ -1,3 +1,11 @@
+body{
+    background-image:url(https://i.ytimg.com/vi/qFDTm_TBAcg/maxresdefault.jpg);
+}
+
+.over-nav{
+    display: flex;
+}
+
 .btn-outline-success{
     color: chocolate;
     border-color: chocolate;
@@ -46,4 +54,15 @@ footer{
         display: block;
     }
     
+}
+
+.over-card-font{
+    font-size:larger;
+    text-decoration: none;
+    color:black;
+}
+
+.over-card-date{
+    padding-top: 1rem; 
+    font-size: smaller
 }
